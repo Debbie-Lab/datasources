@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "camelcase": "^5.3.1",
+    "glob": "^7.1.6",
+    "hjson": "^3.2.1",
+    "lru-cache": "^5.1.1",
+    "mockjs": "^1.1.0",
+    "object-hash": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
