@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "glob": "^7.1.6",
+    "hjson": "^3.2.1",
+    "lru-cache": "^5.1.1",
+    "mockjs": "^1.1.0",
+    "object-hash": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "name": "@app-proto/datasources",
+  "version": "0.0.1",
+  "description": "本地数据源(支持mock\\json\\hjson\\js格式)。",
+  "main": "parse.js",
+  "repository": "git@github.com:Debbie-Lab/datasources.git",
+  "author": "solome <iliyang.cn@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
